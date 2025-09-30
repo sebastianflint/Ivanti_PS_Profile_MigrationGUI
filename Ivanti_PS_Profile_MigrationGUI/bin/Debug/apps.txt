@@ -1,0 +1,7 @@
+# DisplayName | InternalAppName
+Google Chrome | Google Chrome
+Notepad++     | Notepad++ Group
+7-Zip         | 7-Zip
+Testpers      | Testpers Group
+# Old single-column lines still work:
+Notepad

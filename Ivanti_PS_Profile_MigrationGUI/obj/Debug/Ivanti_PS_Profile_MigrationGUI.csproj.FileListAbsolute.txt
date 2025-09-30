@@ -1,0 +1,10 @@
+C:\Users\Sebastian\source\repos\Ivanti_PS_Profile_MigrationGUI\obj\Debug\Ivanti_PS_Profile_MigrationGUI.csproj.AssemblyReference.cache
+C:\Users\Sebastian\source\repos\Ivanti_PS_Profile_MigrationGUI\obj\Debug\Ivanti_PS_Profile_MigrationGUI.Form1.resources
+C:\Users\Sebastian\source\repos\Ivanti_PS_Profile_MigrationGUI\obj\Debug\Ivanti_PS_Profile_MigrationGUI.Properties.Resources.resources
+C:\Users\Sebastian\source\repos\Ivanti_PS_Profile_MigrationGUI\obj\Debug\Ivanti_PS_Profile_MigrationGUI.csproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\Ivanti_PS_Profile_MigrationGUI\obj\Debug\Ivanti_PS_Profile_MigrationGUI.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\Ivanti_PS_Profile_MigrationGUI\bin\Debug\Ivanti_PS_Profile_MigrationGUI.exe.config
+C:\Users\Sebastian\source\repos\Ivanti_PS_Profile_MigrationGUI\bin\Debug\Ivanti_PS_Profile_MigrationGUI.exe
+C:\Users\Sebastian\source\repos\Ivanti_PS_Profile_MigrationGUI\bin\Debug\Ivanti_PS_Profile_MigrationGUI.pdb
+C:\Users\Sebastian\source\repos\Ivanti_PS_Profile_MigrationGUI\obj\Debug\Ivanti_PS_Profile_MigrationGUI.exe
+C:\Users\Sebastian\source\repos\Ivanti_PS_Profile_MigrationGUI\obj\Debug\Ivanti_PS_Profile_MigrationGUI.pdb
