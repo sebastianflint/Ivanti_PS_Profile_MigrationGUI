@@ -4,6 +4,11 @@
 
 A small WinForms utility written in C# for automating **Ivanti / AppSense Environment Manager** profile imports.
 
+## 📷 Preview
+
+<img width="802" height="481" alt="image" src="https://github.com/user-attachments/assets/03e7288d-f655-4c1b-9f50-c4a5fc2a6533" />
+
+
 It provides:
 - A simple UI with a `CheckedListBox` showing available applications.
 - Execution of PowerShell scripts that call `Import-EMPManagedAppData`.
