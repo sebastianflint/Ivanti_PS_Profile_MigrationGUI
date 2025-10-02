@@ -55,6 +55,9 @@ Notepad
 ```
 C:\Temp\mydoc.txt|C:\Temp2\mydoc.txt
 c:\temp\Test|C:\Temp2\MyFolder
+
+# Import .reg files:
+REGIMPORT|c:\temp\Import.reg
 ```
 
 ---
