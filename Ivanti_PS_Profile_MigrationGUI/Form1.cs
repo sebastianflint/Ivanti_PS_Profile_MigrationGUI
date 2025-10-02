@@ -177,7 +177,8 @@ Notepad
             var exeDir = AppDomain.CurrentDomain.BaseDirectory;
             var listFilePath = Path.Combine(exeDir, "copylist.txt");
 
-            FileCopyHelper.CopyFromListFile(listFilePath, richTextBoxLog);
+            FileCopyHelper.ExecuteFromListFile(listFilePath, richTextBoxLog);
+
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
