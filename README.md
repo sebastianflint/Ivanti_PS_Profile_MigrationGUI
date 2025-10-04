@@ -19,8 +19,6 @@ It provides:
 
 ## ✨ Features
 
-## ✨ Features
-
 - **Automatic Import Mode:**
   - The user environment variable `APImportPath` defines whether imports are done **locally** or from a **network profile path**.
   - If `APImportPath` is empty, missing, or set to `"local"`, the application runs in **local mode** using:
