@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|c:\\users\\sebastian\\documents\\github\\ivanti_ps_profile_migrationgui\\ivanti_ps_profile_migrationgui\\empimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|solutionrelative:empimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\filecopyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|solutionrelative:filecopyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\appitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|solutionrelative:appitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0970FCFD-28B2-4B04-AF57-3901A466925B}|Ivanti_PS_Profile_MigrationGUI.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:39:41.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileCopyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\FileCopyHelper.cs",
+              "RelativeDocumentMoniker": "FileCopyHelper.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\FileCopyHelper.cs",
+              "RelativeToolTip": "FileCopyHelper.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAvwJ8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:39:41.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppItem.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\AppItem.cs",
+              "RelativeDocumentMoniker": "AppItem.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\AppItem.cs",
+              "RelativeToolTip": "AppItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:39:41.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpImporter.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\EmpImporter.cs",
+              "RelativeDocumentMoniker": "EmpImporter.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\EmpImporter.cs",
+              "RelativeToolTip": "EmpImporter.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAIwIwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:39:41.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:39:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-02T23:39:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-02T23:39:41.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:39:41.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\Documents\\GitHub\\Ivanti_PS_Profile_MigrationGUI\\Ivanti_PS_Profile_MigrationGUI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T23:39:41.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

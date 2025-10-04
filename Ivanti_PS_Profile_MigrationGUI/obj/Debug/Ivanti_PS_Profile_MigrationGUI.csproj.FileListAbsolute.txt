@@ -18,3 +18,4 @@ C:\Users\Sebastian\Documents\GitHub\Ivanti_PS_Profile_MigrationGUI\Ivanti_PS_Pro
 C:\Users\Sebastian\Documents\GitHub\Ivanti_PS_Profile_MigrationGUI\Ivanti_PS_Profile_MigrationGUI\bin\Debug\Ivanti_PS_Profile_MigrationGUI.exe.config
 C:\Users\Sebastian\Documents\GitHub\Ivanti_PS_Profile_MigrationGUI\Ivanti_PS_Profile_MigrationGUI\bin\Debug\Ivanti_PS_Profile_MigrationGUI.exe
 C:\Users\Sebastian\Documents\GitHub\Ivanti_PS_Profile_MigrationGUI\Ivanti_PS_Profile_MigrationGUI\bin\Debug\Ivanti_PS_Profile_MigrationGUI.pdb
+C:\Users\Sebastian\Documents\GitHub\Ivanti_PS_Profile_MigrationGUI\Ivanti_PS_Profile_MigrationGUI\obj\Debug\Ivanti_PS_Profile_MigrationGUI.exe.config

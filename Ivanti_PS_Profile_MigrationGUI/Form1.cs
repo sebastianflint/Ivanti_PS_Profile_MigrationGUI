@@ -36,7 +36,18 @@ namespace Ivanti_PS_Profile_MigrationGUI
                 lblDisclaimer.Text = "Sie befinden sich aktuell auf einem Notebook/ Desktop.\n\nIst dies Ihr aktueller Hauptarbeitsplatz?\nDann starten Sie die Migration Ihrer persönlichen Applikationseinstellungen.";
             }
 
+            var importpath = Environment.GetEnvironmentVariable("APImportPath", EnvironmentVariableTarget.User);
+
+            if (string.IsNullOrWhiteSpace(importpath) || importpath.Equals("local", StringComparison.OrdinalIgnoreCase))
+            {
+                toolStripStatusLabel1.Text = "ImportMode = local";
+            }
+            else
+            {
+                toolStripStatusLabel1.Text = "ImportMode = network";
+            }
         }
+
 
         private async void btnStartMigration_Click(object sender, EventArgs e)
         {

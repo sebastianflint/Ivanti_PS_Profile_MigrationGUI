@@ -120,18 +120,44 @@ try {
         Import-Module $dllPath -ErrorAction Stop
     }
 
+    # ===== APImportPath handling =====
+    $importPath = [Environment]::GetEnvironmentVariable('APImportPath', 'User')
+    if ($null -eq $importPath -or $importPath.Trim() -eq '') { $importPath = 'local' }
+    Write-Output ('APImportPath: ' + $importPath)
+
+    if ($importPath -ne 'local') {
+        # Validate path exists before processing any app
+        if (-not (Test-Path -LiteralPath $importPath)) {
+            Write-Error ('APImportPath not found: ' + $importPath)
+            exit 6
+        }
+    }
+    # =================================
+
     $overallFailures = 0
     foreach ($app in $apps) {
         if ([string]::IsNullOrWhiteSpace($app)) { continue }
 
         $literal = Format-AppLiteral $app
-        Write-Output ('Running: Import-EMPManagedAppData -App ' + $literal)
+
+        if ($importPath -ne 'local') {
+            Write-Output ('Running: Import-EMPManagedAppData -App ' + $literal + ' -Merge -ProfilePath ""' + $importPath + '""')
+        }
+        else {
+            Write-Output ('Running: Import-EMPManagedAppData -App -Merge' + $literal)
+        }
 
         try {
-            Import-EMPManagedAppData -App $app -Merge -ErrorAction Stop
+            if ($importPath -ne 'local') {
+                Import-EMPManagedAppData -App $app -Merge -ProfilePath $importPath -ErrorAction Stop
+            }
+            else {
+                Import-EMPManagedAppData -App $app -Merge -ErrorAction Stop
+            }
+
             Write-Output ('SUCCESS: ' + $literal)
 
-            # === NEW: Write success flag to HKCU ===
+            # Write success flag to HKCU
             $regPath = 'HKCU:\Software\AppSense\UVConfig'
             if (-not (Test-Path -LiteralPath $regPath)) {
                 New-Item -Path $regPath -Force | Out-Null
@@ -165,6 +191,7 @@ catch {
     exit 1
 }
 ";
+
 
 
             // Temp script path
