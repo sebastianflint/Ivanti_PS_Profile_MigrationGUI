@@ -19,23 +19,28 @@ It provides:
 
 ## ✨ Features
 
+## ✨ Features
+
+- **Automatic Import Mode:**
+  - The user environment variable `APImportPath` defines whether imports are done **locally** or from a **network profile path**.
+  - If `APImportPath` is empty, missing, or set to `"local"`, the application runs in **local mode** using:
+    ```
+    Import-EMPManagedAppData -App <App>
+    ```
+  - If `APImportPath` points to an existing folder, **network mode** is used with:
+    ```
+    Import-EMPManagedAppData -App <App> -Merge -ProfilePath <APImportPath>
+    ```
+  - If the path does **not** exist, an error is logged and the import stops.
+  - The current mode is displayed in the application’s status bar:
+    - `ImportMode = local`
+    - `ImportMode = network`
+
 - **App list from file:**  
   Define available applications in `apps.txt` (one per line).  
+
 - **Registry flagging:**  
-  After a successful import, a flag is written to: HKCU\Software\AppSense\UVConfig<AppName> = 1 (DWORD)
-- **Smart UI behavior:**  
-- Already imported apps (detected from registry) are unchecked at startup.
-- Checked items = to be imported.
-- Run only selected apps, or all.
-
-- **Logging:**  
-- RichTextBox shows PowerShell stdout/stderr and copy/registry import actions.
-- On application exit, the log is written to `%TEMP%\EMP_ImportLog_yyyyMMdd_HHmmss.txt`.
-
-- **File & Registry operations (copylist.txt):**  
-- Copy files or folders (`source|destination`)  
-- Import `.reg` files (`REGIMPORT|path-to.reg`)  
-
+  After a successful import, a flag is written to:  HKCU\Software\AppSense\UVConfig<AppName> = 1 (DWORD)
   
 
   
